@@ -1,4 +1,4 @@
-package com.andreproect.dslist.entities.dto;
+package com.andreproect.dslist.dto;
 
 import com.andreproect.dslist.entities.Game;
 
